@@ -33,7 +33,7 @@ The dataset (`data/vocal_gender_features_new.csv`) contains 43 extracted audio f
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/<your-username>/Voice_Classification_Project.git
+    git clone https://github.com/B4Mprofessor/Voice_Classification_Project
     cd Voice_Classification_Project
     ```
 
