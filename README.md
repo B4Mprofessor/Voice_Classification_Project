@@ -10,8 +10,6 @@
 
 **A machine learning project to classify human voice gender (Male/Female) and cluster similar voices using extracted audio features.**
 
-[Live Demo (Streamlit)](https://your-streamlit-app-url-if-deployed.streamlit.app/) <!-- Replace with your actual deployed URL if applicable -->
-
 </div>
 
 ## 📋 Table of Contents
@@ -111,7 +109,7 @@ The dataset (`vocal_gender_features_new.csv`) contains **16,147 samples** (after
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/<your-username>/human-voice-classification-clustering.git
+    git clone https://github.com/B4Mprofessor/Voice_Classification_Project.git
     cd human-voice-classification-clustering
     ```
 
